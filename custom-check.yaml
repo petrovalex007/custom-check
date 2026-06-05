@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN,2ip.ru
+  - DOMAIN,addr.tools
+  - DOMAIN,browserleaks.com
+  - DOMAIN,dnsleaktest.com
+  - DOMAIN,ifconfig.me
+  - DOMAIN,myip.addr.tools
+  - DOMAIN,myip2.ru
+  - DOMAIN,ns1.cloudflare.net
+  - DOMAIN,openwrt.org
+  - DOMAIN,downloads.openwrt.org
