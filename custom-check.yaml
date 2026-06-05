@@ -7,5 +7,3 @@ payload:
   - DOMAIN,myip.addr.tools
   - DOMAIN,myip2.ru
   - DOMAIN,ns1.cloudflare.net
-  - DOMAIN,openwrt.org
-  - DOMAIN,downloads.openwrt.org
