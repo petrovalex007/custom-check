@@ -1,9 +1,9 @@
 payload:
   - DOMAIN,2ip.ru
-  - DOMAIN,addr.tools
+  - DOMAIN,ipip.net
   - DOMAIN,browserleaks.com
   - DOMAIN,dnsleaktest.com
   - DOMAIN,ifconfig.me
   - DOMAIN,myip.addr.tools
   - DOMAIN,myip2.ru
-  - DOMAIN,ns1.cloudflare.net
+  - DOMAIN,ip.sb
