@@ -1,3 +1,2 @@
-#payload:
-#  - DOMAIN,2ip.ru
-#  - DOMAIN,ipapi.is
+payload:
+  - DOMAIN,rezka.fi
